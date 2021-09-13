@@ -1,0 +1,1 @@
+roomPerimeter.innerHTML="Периметр одной стены: "+perimeterWall+" Периметр всех стен: "+perimeterAllWall+" Периметр пола: "+perimeterFloor;
